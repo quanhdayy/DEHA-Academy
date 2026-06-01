@@ -3,7 +3,7 @@
 ## Scope
 This document is the source-of-truth onboarding/training flow for new marketing staff, coordinated by:
 - Marketing Leader
-- New staff (candidate)
+- New Staff Candidate
 - Agent AI Marketing
 
 Main channels:
@@ -36,7 +36,7 @@ Main channels:
    - Each weak area keeps an independent counter. After **3 consecutive insufficient knowledge-check submissions** for the same weak area, Agent AI escalates to Marketing Leader for manual coaching direction.
 13. Candidate revises and resubmits the content assignment.
 14. Agent AI receives revised submission and re-evaluates.
-15. Loop continues until assignment passes.
+15. Loop continues until assignment passes (or escalation thresholds defined in Decision logic summary are reached).
 16. If passed, Agent AI confirms completion of the lesson/day and automatically moves to the next lesson/assignment.
 17. If day 7 ends and all completion conditions are satisfied, Agent AI confirms completion of onboarding and transitions staff to the marketing operations phase.
 
