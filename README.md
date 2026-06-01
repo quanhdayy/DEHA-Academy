@@ -31,8 +31,9 @@ Main channels:
    - Related learning materials for weak knowledge areas
    - Knowledge-check questions for those weak areas
 12. Candidate answers the knowledge-check:
-   - If answers are sufficient, candidate **passes the knowledge portion only when all identified weak areas are answered sufficiently** and must revise and resubmit the content assignment.
-   - If answers are insufficient, Agent AI continues assigning targeted learning materials and knowledge-check questions; each weak area keeps an independent counter, and after **3 consecutive insufficient knowledge-check submissions** for that same weak area, Agent AI escalates to Marketing Leader for manual coaching direction.
+   - If answers are sufficient for all identified weak areas, candidate **passes the knowledge portion** and must revise and resubmit the content assignment.
+   - If answers are insufficient, Agent AI continues assigning targeted learning materials and knowledge-check questions.
+   - Each weak area keeps an independent counter. After **3 consecutive insufficient knowledge-check submissions** for the same weak area, Agent AI escalates to Marketing Leader for manual coaching direction.
 13. Candidate revises and resubmits the content assignment.
 14. Agent AI receives revised submission and re-evaluates.
 15. Loop continues until assignment passes.
