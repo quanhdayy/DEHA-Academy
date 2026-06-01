@@ -31,7 +31,7 @@ Main channels:
    - Related learning materials for weak knowledge areas
    - Knowledge-check questions for those weak areas
 12. Candidate answers the knowledge-check:
-   - If answers are sufficient, candidate **passes the knowledge portion** and must revise and resubmit the content assignment.
+   - If answers are sufficient, candidate **passes the knowledge portion for the identified weak areas** and must revise and resubmit the content assignment.
    - If answers are insufficient, Agent AI continues assigning targeted learning materials and knowledge-check questions; after **3 consecutive insufficient knowledge-check submissions** for the same weak area, Agent AI escalates to Marketing Leader for manual coaching direction.
 13. Candidate revises and resubmits the content assignment.
 14. Agent AI receives revised submission and re-evaluates.
@@ -43,4 +43,4 @@ Main channels:
 - **Content quality gate**: submission must pass configured criteria.
 - **Knowledge gate for weak areas**: candidate must answer knowledge-check sufficiently.
 - Passing the knowledge gate does **not** skip content revision. Candidate must still submit corrected content and pass assignment criteria.
-- If content still does not pass after **3 revision rounds** (**initial submission + 2 resubmissions**), Agent AI escalates to Marketing Leader for intervention and final direction.
+- If content still does not pass after **3 total submissions** (**initial submission + 2 resubmissions**), Agent AI escalates to Marketing Leader for intervention and final direction.
